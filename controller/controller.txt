@@ -1,0 +1,13 @@
+
+operating system: CentOS 7
+
+
+Hardware partitioned in to swap,/,backup 
+
+swap:40 gb
+
+
+/: 200 gb
+backup: 60 gb
+
+
